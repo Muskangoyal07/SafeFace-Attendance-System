@@ -26,7 +26,7 @@ GUI Development: Tkinter
 Database Management: Excel (via pandas)
 
 # How to Run
-Clone the repository: git clone https://github.com/yourusername/SafeFace-Attendance-System.git
+Clone the repository: git clone https://github.com/Muskangoyal07/SafeFace-Attendance-System.git
 
 Navigate to the project directory: cd SafeFace-Attendance-System
 
