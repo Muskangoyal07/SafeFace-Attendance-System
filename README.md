@@ -32,6 +32,4 @@ Navigate to the project directory: cd SafeFace-Attendance-System
 
 Run the application: python main.py
 
-# License
-This project is licensed under the MIT License.
 
